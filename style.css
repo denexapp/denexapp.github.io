@@ -48,16 +48,17 @@ body {
 }
 a {
     text-decoration: none;
+    cursor: pointer;
 }
 .social-link {
     display: block;
     font-size: 2rem;
     color: #4284f3;
 }
-a.social-link:hover {
+.social-link:hover {
     color: #70b7ff;
 }
-a.social-link:active {
+.social-link:active {
     color: #2d59a4;
 }
 .credits {
